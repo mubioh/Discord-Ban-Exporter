@@ -6,7 +6,7 @@
 
 Edit the variables in the config.json file.
 
-> Guide found here: https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
+> Guide found here: https://discordjs.guide/preparations/setting-up-a-bot-application.html
 
 Use `npm install` in your terminal to install all needed packages.
 
