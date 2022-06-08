@@ -4,13 +4,11 @@
 
 ## 🚀 Getting Started
 
-Edit the variables in the config.json file (bot token and guild id).
-
-> Guide found here: https://discordjs.guide/preparations/setting-up-a-bot-application.html
-
-Use `npm install` in your terminal to install all needed packages.
-
-After installation finishes run `node index.js` to start the bot.
+1. Download and install [Node.js](https://nodejs.org/en/).
+2. Download ![Discord Bot](https://github.com/mubioh/Discord-Ban-Exporter/archive/refs/heads/main.zip).
+3. Edit the variables in the config.json file.
+4. Use `npm install` in terminal to install all needed packages.
+5. Run `node index.js` to start the bot.
 
 ## 📱 Contact
 
