@@ -20,7 +20,7 @@ module.exports = {
 			let row = [];
 			row.push(`${value.user.username}#${value.user.discriminator}`);
 			row.push(`${value.user.id}`);
-			row.push(`${value.reason}`);
+			if (value.reason != null) row.push(`${value.reason}`);
 			results.push(row);
 		});
 
