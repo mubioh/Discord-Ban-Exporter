@@ -1,8 +1,8 @@
-# Ban Exporter (Discord Bot)
+# 🤖 Ban Exporter (Discord Bot)
 
 > Exports Discord Guild bans to an Excel spreadsheet. 
 
-## Getting Started
+## 🚀 Getting Started
 
 Edit the variables in the config.json file.
 
@@ -12,6 +12,6 @@ Use `npm install` in your terminal to install all needed packages.
 
 After installation finishes run `node index.js` to start the bot.
 
-## Contact
+## 📱 Contact
 
 For questions, support or bug fixes please contact me via Mubioh#0001 or nathan@tenstar.gg.
