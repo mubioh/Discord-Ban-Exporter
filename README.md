@@ -4,7 +4,7 @@
 
 ## 🚀 Getting Started
 
-Edit the variables in the config.json file (Bot token and guild id).
+Edit the variables in the config.json file (bot token and guild id).
 
 > Guide found here: https://discordjs.guide/preparations/setting-up-a-bot-application.html
 
