@@ -43,7 +43,7 @@ module.exports = {
 		const attachment = new Attachment('./data/data.xlsx');
 
 		await interaction.reply({
-			content: 'Successfully compiled banned users into excel sheet.',
+			content: 'Successfully compiled banned users into excel spreadsheet.',
 			files: [attachment],
 			ephemeral: true,
 		});
