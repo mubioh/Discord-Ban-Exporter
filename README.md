@@ -10,7 +10,7 @@ Edit the variables in the config.json file.
 
 Use `npm install` in your terminal to install all needed packages.
 
-After installation finishes add token and guild id to config.json then run `node index.js` to start the bot.
+After installation finishes run `node index.js` to start the bot.
 
 ## Contact
 
